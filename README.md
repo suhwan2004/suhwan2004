@@ -62,4 +62,4 @@
   <h2>Stats</h2>
   <br/>
   </div>
-  [![Suhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwan2004)](https://github.com/suhwan2004/github-readme-stats)
+  [![Suhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhwan2004)](https://github-readme-stats.vercel.app/api?username=suhwan2004)
