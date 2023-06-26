@@ -12,9 +12,9 @@
 <li>I think the most important value of collaboration is responsibility.</li>
 <li>Fun fact: I love playing League of Legends with other people. If you want to do it with me, please add me as a friend through <b>Momo corp</b>.</li>
 <li><b>Contact</b> : <a  href="mailto:suhwan2004@gmail.com">
-<img  alt="Gmail"  src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:hwanngjjbb@gmail.com"/>
+<img  alt="Gmail"  src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:suhwan2004@gmail.com"/>
 </a>
-<a  href="https://suhwan2004.github.io/">
+<a  href="https://suhwan2004.tistory.com/">
 <img  alt="Tech Blog"  src ="https://img.shields.io/badge/Tech Blog-2078C6.svg?&style=flat&logo=applemusic&logoColor=white&link=https://technicolour.tistory.com/"/>
 </a></li>
 
