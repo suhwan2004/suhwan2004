@@ -48,7 +48,7 @@
 <div align="center">
   <h2>Experience</h2>
   <ul  align="left">
-    <li>Samsung SW Academy For Youth 9th (2023.01 ~ now)
+    <li>Samsung SW Academy For Youth 9th (2023.01 ~ 2023.12)
     <li>Woowa Brothers <b>woowa-techcamp web FullStack Course 5th</b> (2022.07 ~ 2022.09)</li>
     <li>J2KB 전국연합 코딩동아리 3기 (2021.03.27 ~ 2021.06.12)</li>
     <li>The Pyeongtaek University of Korea. Computer Science Engineering(2017.03 ~ 2023.02)</li>
@@ -62,6 +62,7 @@
 <div  align="center">
   <h2>Prize</h2>
   <ul  align="left">
+    <li>2023년 삼성 청년 소프트웨어 아카데미 공통 프로젝트 반 내 1등</li>
     <li>2021년 J2KB 주관 UNI-CON 3등</li>
   </ul>
 </div>
