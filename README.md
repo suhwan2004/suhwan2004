@@ -10,7 +10,6 @@
 <li>I'm a undergraduate who wants to be a <b>frontend engineer</b>.</li>
 <li>I think about whether my code is clean code, and I try to make a better code.</li>
 <li>I think the most important value of collaboration is responsibility.</li>
-<li>Fun fact: I love playing League of Legends with other people. If you want to do it with me, please add me as a friend through <b>Momo corp</b>.</li>
 <li><b>Contact</b> : <a  href="mailto:suhwan2004@gmail.com">
 <img  alt="Gmail"  src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white&link=mailto:suhwan2004@gmail.com"/>
 </a>
@@ -27,7 +26,9 @@
 <div  align="center">
   <h2>Skills</h2>
   <img  alt="JavaScript"  src ="https://img.shields.io/badge/JavaScript-ffe450.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   <img  alt="React"  src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   <img  alt="MySQL"  src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
